@@ -1,0 +1,46 @@
+body{
+  height: 100%;
+  font-family: "Lucida Console", "Courier New", monospace;
+  background-color: #F8F8FF; 
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.bg-img {
+  /* The image used */
+  background-image: url("room.jpg");
+  padding:50px;
+
+  min-height: 380px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+h3{
+
+    text-align: center;
+    padding: 10px;
+    color: DarkBlue;
+}
+
+img{
+  padding: 20px;
+  display: block;
+  margin-top: 45px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+footer {
+        text-align: center;
+        padding: 3px;
+        background-color: DarkGoldenRod;
+        color: white;
+    }

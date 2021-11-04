@@ -1,0 +1,37 @@
+* {
+    font-family: "Lucida Console", "Courier New", monospace;
+    align-content: center;
+
+    } 
+
+    body{
+        background-color: #F8F8FF;
+    } 
+
+    footer {
+  		text-align: center;
+  		padding: 3px;
+  		background-color: DarkGoldenRod;
+  		text-color: white;
+	}
+
+	h1{
+
+		font-family: "Lucida Console", "Courier New", monospace;
+		font-size: 100px;
+	}
+
+	h4{
+
+		font-family: "Lucida Console", "Courier New", monospace;
+		font-size: 30px;
+	}
+
+	h2{
+
+		font-family: "Lucida Console", "Courier New", monospace;
+		color: DarkBlue;
+		text-align: center;
+	}
+
+	
